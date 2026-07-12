@@ -11,7 +11,7 @@ export default function Projects() {
         </Reveal>
         <Reveal>
           <h2 className="font-[family-name:var(--font-display)] text-3xl font-semibold text-text sm:text-4xl">
-            Selected work
+            Projects
           </h2>
         </Reveal>
 

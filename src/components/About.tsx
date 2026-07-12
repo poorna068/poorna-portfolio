@@ -4,7 +4,7 @@ import Reveal from "./Reveal";
 const facts: [string, string][] = [
   ["Location", "Hyderabad, Telangana"],
   ["Experience", "3+ years"],
-  ["Availability", "Immediate · hybrid / remote"],
+  ["Availability", "Immediate · onsite / hybrid / remote"],
   ["Focus", "Offline-first, performant, accessible apps"],
 ];
 
